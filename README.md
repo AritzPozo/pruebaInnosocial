@@ -1,4 +1,4 @@
 # pruebaInnosocial
 Repositorio para la clase práctica con GIT + GitHab
 
-Ejemplos prácticos
+Ejemplos prácticos2
